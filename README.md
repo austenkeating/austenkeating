@@ -2,7 +2,7 @@
 - 👀 I’m interested in psychology and human-technology interactions
 - 🌱 I’m currently learning python
 - 💞️ I’m not currently looking to collaborate 
-- 📫 How to reach me @austenkeating on most things!
+- 📫 You can reach me @austenkeating on most platforms
 
 <!---
 austenkeating/austenkeating is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
